@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/yeshteryTask/static/css/main.fbe5cee2.css",
+    "main.js": "/yeshteryTask/static/js/main.b75d9425.js",
+    "static/js/787.426d9060.chunk.js": "/yeshteryTask/static/js/787.426d9060.chunk.js",
+    "static/media/Addidas.png": "/yeshteryTask/static/media/Addidas.fc609522328a6b2e28f5.png",
+    "static/media/P1.jpg": "/yeshteryTask/static/media/P1.3241ca78096f3c6cc373.jpg",
+    "static/media/P2.jpg": "/yeshteryTask/static/media/P2.e1bc95ce1bb126fb057e.jpg",
+    "static/media/P3.jpg": "/yeshteryTask/static/media/P3.0aa89a7f4f15a5f724e4.jpg",
+    "static/media/starbk.png": "/yeshteryTask/static/media/starbk.190d870d386afd29523a.png",
+    "static/media/P4.jpg": "/yeshteryTask/static/media/P4.8142c9ed14db008d7cec.jpg",
+    "static/media/star.png": "/yeshteryTask/static/media/star.d0cbd94e0a4a62fc2bf4.png",
+    "static/media/shopping-cart.png": "/yeshteryTask/static/media/shopping-cart.8036771257bba187c855.png",
+    "static/media/slick.svg": "/yeshteryTask/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/yeshteryTask/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/yeshteryTask/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/yeshteryTask/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/yeshteryTask/index.html",
+    "main.fbe5cee2.css.map": "/yeshteryTask/static/css/main.fbe5cee2.css.map",
+    "main.b75d9425.js.map": "/yeshteryTask/static/js/main.b75d9425.js.map",
+    "787.426d9060.chunk.js.map": "/yeshteryTask/static/js/787.426d9060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbe5cee2.css",
+    "static/js/main.b75d9425.js"
+  ]
+}
