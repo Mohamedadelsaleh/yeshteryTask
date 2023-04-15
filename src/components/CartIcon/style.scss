@@ -1,0 +1,26 @@
+
+@import "../../styles/main.scss";
+
+.cart-icon {
+    position: relative;
+    cursor: pointer;
+    
+    img {
+      width: 20px;
+      margin-right: 20px;
+    }
+    
+    .cart-badge {
+      position: absolute;
+      top: -5px;
+      right: -5px;
+      background-color: var(--primary-color);
+      color: rgb(0, 0, 0);
+      border-radius: 50%;
+      width: 20px;
+      height: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+}

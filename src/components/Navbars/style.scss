@@ -1,0 +1,102 @@
+
+/********  Nav 1 ********/
+
+.mainNav {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: var(--primary-color);
+
+  h2 {
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+
+  .brand {
+    width: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    .menuIcon{
+      width: 30px;
+      margin: 10px 20px;
+    }
+
+  }
+
+  .customer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 25%;
+  }
+}
+
+/*********** Nav 2  ***********/
+
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+
+    h2 {
+      display: inline-block;
+      cursor: pointer;
+    }
+
+    .search {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 20%;
+      margin-left: 70px;
+
+      .searchInput {
+        width: 100%;
+        font-size: 1rem;
+        padding: 15px;
+        border-radius: 50px;
+        border: 1px solid #58575745;
+      }
+    }
+
+    .storeIcon{
+      img {
+        width: 50px;
+      }
+    } 
+
+    .Icons{
+      display: flex;
+      justify-content: space-evenly;
+      align-items: center;
+      width: 30%;
+      font-size: 0.6rem;
+    }
+  }
+
+/************** Nav 3 ****************/
+
+.categories {
+  padding: 0px 5%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: black;
+  margin-bottom: 30px;
+
+  h2 {
+    display: inline-block;
+    color:white;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+
+  .offers-red {
+    color:red;
+  }
+}
